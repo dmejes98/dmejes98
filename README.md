@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dmejes98
 - 👀 I’m interested in Capital Markets, Financial Risks and Data Science
 - 🌱 I’m currently learning more about the topics I just mentioned
-- 💞️ I’m looking to collaborate with other pythonistas
 - 📫 How to reach me: dmejiaestrada98@outlook.es
 
 <!---
